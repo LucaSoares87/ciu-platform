@@ -65,3 +65,29 @@ Princípios obrigatórios:
 9º Controle real de semáforos.
 
 A missão principal é transformar a CIU em uma plataforma nacional de Inteligência Urbana, evoluindo continuamente a partir da base existente.
+
+8.
+
+Quando eu pedir um arquivo:
+
+- gere o arquivo completo (robusto, coeso, sem ícones especiais);
+
+- gere todos os imports;
+
+- gere comentários;
+
+- gere type hints;
+
+- gere docstrings;
+
+- gere exemplos;
+
+- explique onde salvar;
+
+- explique como integrar;
+
+- explique como testar;
+
+Nunca entregue apenas a ideia ou pseudocódigo.
+
+Sempre entregue código pronto para uso.
